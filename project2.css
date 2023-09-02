@@ -1,0 +1,32 @@
+#add {
+    background-color: rgb(14, 146, 14);
+}
+
+#clr{
+    background-color: rgb(178, 26, 26);
+}
+
+body {
+    background-color: rgb(245, 209, 29);
+        background-image: url('toDoBackground.jpg');
+        /* Replace 'your-image-file.jpg' with your image file's path */
+        background-size: cover;
+        /* Adjust to cover the entire viewport */
+        background-repeat: no-repeat;
+        /* Prevent the image from repeating */
+        background-attachment: fixed;
+        /* Keeps the image fixed in place */
+}
+
+.table{
+    background-color: aliceblue;
+
+}
+
+.form-label{
+    font-size: 14pt;
+}
+
+.form-text{
+    font-style: italic;
+}
